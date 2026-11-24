@@ -1,0 +1,24 @@
+Title: Senior Machine Learning Engineer (NLP & Generative AI)
+Company: CloudScale AI
+Location: San Francisco, CA (Hybrid / Remote)
+
+About the Role:
+We are seeking an experienced Senior Machine Learning Engineer to lead the design, training, and deployment of enterprise-grade Natural Language Processing (NLP) and Large Language Model (LLM) applications. In this role, you will work closely with product managers and distributed backend teams to build scalable semantic search, RAG pipelines, and automated intelligence tools.
+
+Key Responsibilities:
+- Design, fine-tune, and optimize transformer-based NLP architectures (BERT, RoBERTa, LLMs) for production inference.
+- Build resilient RAG architectures leveraging vector databases (Pinecone, ChromaDB, or Weaviate) and embedding models.
+- Scale and monitor machine learning models in production using Kubernetes, Docker, and AWS infrastructure.
+- Implement robust MLOps practices, including model monitoring, drift detection, and CI/CD automation with MLflow or Kubeflow.
+- Collaborate with software engineers to expose high-throughput, low-latency microservices via FastAPI or gRPC.
+- Mentor junior engineers, contribute to architectural reviews, and maintain clean coding standards with unit tests.
+
+Requirements & Qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or a related technical discipline.
+- 5+ years of relevant experience in machine learning engineering or data science.
+- Strong proficiency in Python and modern deep learning frameworks (PyTorch or TensorFlow).
+- Hands-on expertise with Hugging Face Transformers, BERT embeddings, and modern NLP techniques.
+- Solid experience with containerization (Docker) and orchestration (Kubernetes / k8s).
+- Proven track record with cloud platforms, preferably AWS or GCP (S3, EC2, SageMaker, EKS).
+- Familiarity with Terraform, Kafka, and distributed data streaming is a strong plus.
+- Excellent communication, problem-solving, and cross-functional leadership skills.

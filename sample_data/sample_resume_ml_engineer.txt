@@ -1,0 +1,34 @@
+Alex Johnson
+San Francisco, CA | alex.johnson@email.com | (555) 019-2834 | linkedin.com/in/alexjohnson-ml | github.com/alexjohnson
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 4+ years of hands-on experience designing, fine-tuning, and deploying deep learning and NLP models into production. Proven track record in transformer architectures (BERT, RoBERTa, LLMs), vector search pipelines, and RESTful API deployment using PyTorch, FastAPI, and Docker. Passionate about scalable MLOps and retrieval-augmented generation (RAG).
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- ML & Deep Learning: PyTorch, TensorFlow, Hugging Face Transformers, BERT, Scikit-Learn, Pandas, NumPy, OpenCV, RAG, LangChain
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, Linux, Git
+- Databases & Vector Stores: PostgreSQL, Redis, ChromaDB, FAISS, MongoDB
+- APIs & Frameworks: FastAPI, Flask, REST APIs, MLflow, PyTest
+
+WORK EXPERIENCE
+Machine Learning Engineer | Apex AI Solutions | San Francisco, CA | 2022 – Present
+- Architected and deployed an end-to-end semantic search engine using BERT and FAISS, reducing query latency by 42% for 500k+ daily users.
+- Fine-tuned transformer models (BERT, RoBERTa) on domain-specific corpora, improving document classification F1-score from 0.81 to 0.93.
+- Containerized model inference pipelines using Docker and orchestrated multi-node deployments on Kubernetes (EKS).
+- Built automated CI/CD evaluation workflows with GitHub Actions and MLflow for experiment tracking and model registry governance.
+- Collaborated with cross-functional teams to integrate NLP microservices with backend FastAPI and PostgreSQL databases.
+
+Associate Data Scientist | DataCraft Analytics | Boston, MA | 2020 – 2022
+- Developed predictive machine learning models using Scikit-Learn and XGBoost for customer churn prediction, achieving 88% accuracy.
+- Built automated ETL data pipelines in Python and SQL processing over 10M records daily.
+- Created interactive dashboards and data visualizations using Pandas, Matplotlib, and Seaborn for business stakeholder presentations.
+- Conducted unit testing and regression tests using PyTest to maintain 95%+ test coverage across core analytical scripts.
+
+KEY PROJECTS
+- Open-Source Semantic RAG Assistant: Built a modular RAG pipeline using LangChain, Hugging Face, ChromaDB, and FastAPI to answer user questions over unstructured technical documentation.
+- Resume Keyword Matcher: Implemented cosine similarity over sentence embeddings to benchmark candidate skills against tech stacks.
+
+EDUCATION
+Bachelor of Science in Computer Science | Boston University | 2016 – 2020
+- Relevant Coursework: Machine Learning, Natural Language Processing, Algorithms & Data Structures, Linear Algebra, Database Systems.

@@ -1,0 +1,32 @@
+Title: AI Research & Development (R&D) Engineer
+Company: DeepTech Innovations Labs
+Location: Bangalore, India (Hybrid)
+Department: Core AI & Emerging Technologies
+
+About the Role:
+We are seeking an innovative and driven R&D Engineer to join our Advanced Research & Development Labs. In this role, you will bridge the gap between cutting-edge academic research and real-world production systems. You will explore novel deep learning algorithms, conduct proof-of-concept (PoC) experiments, publish findings, and benchmark transformer-based architectures for next-generation intelligence products.
+
+Key Responsibilities:
+- Design, conduct, and evaluate novel machine learning and deep learning experiments.
+- Research, benchmark, and fine-tune state-of-the-art foundation models (BERT, RoBERTa, T5, LLaMA, GPT architectures).
+- Formulate mathematical formulations, hypothesis testing, and rigorous ablation studies.
+- Develop working prototypes and Proof-of-Concepts (PoCs) demonstrating feasibility of novel algorithms.
+- Implement Retrieval-Augmented Generation (RAG) pipelines and vector similarity search.
+- Collaborate with engineering teams to transition experimental R&D models into production-ready microservices.
+- Track state-of-the-art literature (NeurIPS, ICML, ICLR, ACL, CVPR) and patent potential intellectual property.
+
+Required Qualifications & Skills:
+- Master’s or Ph.D. degree (or Bachelor’s with extensive research experience) in Computer Science, Data Science, Artificial Intelligence, or Mathematics.
+- 3+ years of proven hands-on R&D or applied research experience in Deep Learning and Natural Language Processing (NLP).
+- Strong proficiency in Python and deep learning frameworks (PyTorch or TensorFlow).
+- Experience with Hugging Face Transformers, Tokenizers, and model fine-tuning techniques (LoRA, QLoRA, PEFT).
+- Solid mathematical foundation in Linear Algebra, Probability & Statistics, and Optimization Algorithms.
+- Experience with Vector Databases (FAISS, ChromaDB, Pinecone, or Milvus) and embedding techniques.
+- Familiarity with MLOps tools (MLflow, Weights & Biases, DVC) for rigorous experiment tracking.
+- Strong problem-solving mindset, critical thinking, and ability to explore ambiguous, open-ended research questions.
+
+Preferred / Good to Have:
+- Published papers in top-tier conferences or workshops (NeurIPS, ACL, EMNLP, CVPR, etc.) or filed patents.
+- Experience with C++ for high-performance algorithm acceleration (CUDA/TensorRT).
+- Knowledge of distributed model training on GPU clusters (DeepSpeed, Megatron-LM).
+- Experience with Docker, Linux environments, and Git version control.
